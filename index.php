@@ -83,7 +83,7 @@
 
       <div class="row">
         <div class="col-lg-4" data-aos="fade-right">
-          <img src="images/IMG_2142.PNG" class="img-fluid" alt="" width="500px">
+          <img src="images/IMG_2422.JPG" class="img-fluid" alt="" width="500px">
         </div>
         <div class="col-lg-8 pt-4 pt-lg-0 content" data-aos="fade-left">
           <h3>UI/UX &amp; Web Developer</h3>
@@ -679,7 +679,7 @@
           <div class="info-box">
             <i class="bx bx-map"></i>
             <h3>My Address</h3>
-            <p>A108 Adam Street, New York, NY 535022</p>
+            <p></p>
           </div>
         </div>
 
@@ -708,7 +708,7 @@
           <div class="info-box">
             <i class="bx bx-phone-call"></i>
             <h3>Call Me</h3>
-            <p>+1 5589 55488 55</p>
+            <p>+234 706 120 8692</p>
           </div>
         </div>
       </div>
